@@ -1,8 +1,10 @@
 # learning
 
-Books, courses and presentations that I've engaged.  
+Books, courses and presentations that I've engaged.
+
 
 ## 2016-05
+- [Exploring ES6](http://exploringjs.com/) (book)
 - [Get Started With Angular 2](https://code.tutsplus.com/courses/get-started-with-angular-2) (course)
 - [Advanced Logging with the JavaScript Console](https://egghead.io/series/js-console-for-power-users) (course)
 - [Step-by-Step Async JavaScript with RxJS](https://egghead.io/series/step-by-step-async-javascript-with-rxjs) (course)
